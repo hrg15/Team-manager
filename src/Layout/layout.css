@@ -1,0 +1,11 @@
+.addTeam {
+  width: 100%;
+  flex-grow: 1;
+  border-right: 2px solid #eeeeee;
+  height: fit-content;
+  min-height: 100%;
+}
+.showTeam {
+  width: 100%;
+  flex-grow: 1;
+}

@@ -1,0 +1,18 @@
+.teams ul {
+  width: 75%;
+  background: white;
+  margin: 20px auto;
+  padding: 10px;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 10px;
+  align-items: center;
+}
+.teams ul li button {
+  padding: 5px;
+  background: #e41749;
+}
+.teams ul li button:hover {
+  background: #f5587b;
+}

@@ -1,0 +1,20 @@
+.users ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  border: 2px solid #3f3b3b;
+  margin: 10px auto;
+  width: 75%;
+  padding: 10px;
+  border-radius: 10px;
+  align-items: center;
+}
+.users ul li {
+  flex-grow: 1;
+  text-align: left;
+}
+.users ul li .delUser {
+  display: flex;
+  width: fit-content;
+  cursor: pointer;
+}

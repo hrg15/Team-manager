@@ -1,0 +1,12 @@
+.addBtn button {
+  font-weight: bold;
+}
+.addUser button {
+  width: 100px;
+  margin-top: 15px;
+}
+.teamFlex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

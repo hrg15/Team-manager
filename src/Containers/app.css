@@ -1,0 +1,41 @@
+.container {
+  background: #a7ff83;
+  text-align: center;
+  /* border: 2px solid #212121; */
+  max-width: 1050px;
+  height: 600px;
+  margin: 5% auto;
+  border-radius: 10px;
+  box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.25);
+  overflow: auto;
+  display: flex;
+  justify-content: center;
+}
+.container h1 {
+  display: inline-block;
+}
+
+.container input[type="number"] {
+  width: 85px;
+}
+.container input {
+  display: block;
+  padding: 5px;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #9e9e9e;
+}
+.container input:focus {
+  border: 1px solid #212121;
+}
+.container button {
+  box-shadow: 1px 2px 4px 0px rgba(0, 0, 0, 0.15);
+  color: #fff;
+  background: #071a52;
+  padding: 10px;
+  border-radius: 10px;
+}
+.container button:hover {
+  cursor: pointer;
+  background: #086972;
+}

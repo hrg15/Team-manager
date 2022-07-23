@@ -1,0 +1,12 @@
+.addUser {
+  display: flex;
+  margin: 30px auto;
+  padding: 10px;
+  border: 1px solid #212121;
+  border-radius: 10px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 75%;
+  text-align: left;
+}

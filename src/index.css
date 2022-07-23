@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Catamaran", sans-serif;
+}
+body {
+  min-height: 100%;
+  background: #17b978;
+}
+input {
+  outline: none;
+}
+button {
+  outline: none;
+  background: none;
+  border: none;
+}
+
+/* main colors
+bg: #a7ff83
+container bg: #17b978
+hover: #086972
+btn: #071a52
+
+*/
