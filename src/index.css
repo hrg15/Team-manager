@@ -5,8 +5,8 @@
 }
 body {
   min-height: 100%;
-  background-image: url(../src/assets/images/nasa.jpg);
-  /* background: #17b978; */
+  /* background-image: url(../src/assets/images/nasa.jpg); */
+  background: #17b978;
 }
 input {
   outline: none;
