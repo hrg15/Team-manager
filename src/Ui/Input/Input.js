@@ -14,6 +14,7 @@ const Input = ({
     <div>
       <label htmlFor={inputName}>{inputLable}:</label>
       <input
+        autoComplete="false"
         onChange={inputOnchange}
         type={inputType}
         name={inputName}
